@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Dosis:wght@200&family=New+Tegomin&display=swap" rel="stylesheet');
+
+ 
+ 
+body{
+  
+text-align: center;
+  
+background-image: linear-gradient(#D8BFD8,#87CEEB);
+
+  
+font-family: 'Dosis', cursive;
+
+ 
+}
+
+
+
+form{
+  
+background-color: #ffffff;
+  
+background-opacity : 0.5 ;
+  
+border-radius: 30px;
+  
+max-width: 50%;
+  
+margin: auto;
+
+}
+
+
+<style>
+
+transbox {
+  
+margin: 30px;
+  
+background-color: #ffffff;
+  
+border: 1px solid black;
+  
+opacity: 0.6;
+}
+
+</style>
